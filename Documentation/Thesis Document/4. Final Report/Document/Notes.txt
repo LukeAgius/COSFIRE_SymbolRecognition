@@ -1,0 +1,47 @@
+Symbol recognition in documents: a collection of techniques
+=============================================================
+- Various Techniques have been used or simply proposed during the last 10 years for recognising symbols in documents.
+- Difference depend on both application field and research cultural background.
+
+- Detecting and classifying symbols is one of the most relevant aspects of analyizing many types of documents.
+x Symbols are sets of graphic signs or shapes, variously distributed over the document.
+x They are entrusted with the task of ideally and/or synthetically represent something.
+- They are characterized by the semantics attributed to them and by the rules used to build them.
+- Symbols are often not free shapes.
+- They are formed according to rules, and knowing these rules can help us recognize them.
+- From a symbol recognition perspective the documents of interest for automatic processing can be roughly grouped into three large families
+	- Technical Drawings, electrical schematics, architectural schematics, logic diagrams, flow charts.
+	- Maps geographic, topographic, cadastral.
+	- Others , such as musical scores.
+x Symbols can be 2D shapes that are substantially binary, made by sets of line segments possibly forming loops.
+They can be complex gray-level or colored shapes such as logos.
+x Symbols may appear in isolation or they may be embedded in a net of lines.
+x More over they can touch, partially overlap each other, or intersect other lines.
+x the problems with symbol recognition do not depend so much on their intrinsic shape variability or on the complexity of the features characterizing them, as on the fact that they are more or less embedded in a context that is often very crowded.
+- Symbols must often be searched for in a clutter of other signs.
+- One must usually rely on priori knowledge about the nature of the document to locate candidate symbols or regions of interest to which specific recognition techniques should be applied.
+- It is therefore not surprising that different approaches have been devised for different application fields.
+- It is quite common, in the most general area of image analysis, that methods and strategies used with one type may also prove effective for images of different types.
+- However the methods needed to solve certain problems peculiar to a given type of images, can seldom be used for other image types.
+- Even humans can often interpret an immage correctly only after having attributed to a type.
+- With special reference to the problem of symbol rec in a document, many of the techniques that have been tested in the past years can be profitably used with different types of symbols in different contexts.
+
+A Symbol Reconigition System
+==============================
+x Engineering drawings in an electronic format is easier to store, retrieve and manage as well as faster to modify, update and combine.
+x However a vast amount of existing, and useful, paper drawins that are not yet in the electronic form still need to be computerized.
+- Most current solutions require at least some human involvement.
+- Such tasks presently not only require engineering knowledge but also are quite time-consuming and labour intensive. 
+- For a long time, an industrial need has been identified to achieve automatic conversion of image documents. (ACID) which includes symbol recognition.
+- Most of the current solutions include edge detection, thinning, vectorization, segmentation and recognition based on predefined object or Symbol models.
+- The drawbacks of those method include intensive human involvement to encode symbol models.
+- The need of special hardware to speed up the conversion process.
+- Feature selection is the most essential part of building a stable and accurate pattern recognition system.
+- Those features must satisfy translation, scaling and rotation invariancy properties.
+- The moment invariants derived from geometrical moments of the image have fixed number of numerical values and are invariant to pattern's position size and orientation.
+
+
+A system for Efficient and Robust Map Symbol Recognition
+===========================================================
+- Converting paper maps to electronic format is a common problem in many applications.
+- For an automatic conversion process to be used in commercial products, it needs a near perfect and effecient symbol recognition system to interpret the graphic symbols.

@@ -1,0 +1,84 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Dissertation.aux
+A level-1 auxiliary file: Titlepage.aux
+A level-1 auxiliary file: Acknowledgments.aux
+A level-1 auxiliary file: TableOfContents.aux
+A level-1 auxiliary file: Summary.aux
+A level-1 auxiliary file: introduction.aux
+A level-1 auxiliary file: LitreatureReview.aux
+A level-1 auxiliary file: Methods.aux
+A level-1 auxiliary file: Results.aux
+A level-1 auxiliary file: Discussion.aux
+A level-1 auxiliary file: Conclusion.aux
+A level-1 auxiliary file: Appendix.aux
+The style file: abbrv.bst
+A level-1 auxiliary file: Evaluation.aux
+Database file #1: ../references.bib
+Warning--entry type for "knn_online" isn't style-file defined
+--line 217 of file ../references.bib
+Warning--to sort, need author or key in Delalandre_contest
+Warning--to sort, need author or key in Delalandre_sketched
+Too many commas in name 1 of "Luqman, M. M., Brouard, T., & Ramel, J.-Y." for entry luqman_2009
+while executing---line 1049 of file abbrv.bst
+Too many commas in name 1 of "Luqman, M. M., Brouard, T., & Ramel, J.-Y." for entry luqman_2009
+while executing---line 1049 of file abbrv.bst
+Too many commas in name 1 of "Luqman, M. M., Brouard, T., & Ramel, J.-Y." for entry luqman_2009
+while executing---line 1049 of file abbrv.bst
+Warning--to sort, need author or key in markovs
+Warning--to sort, need author or key in contextWeb
+Warning--to sort, need author or key in medianFiltering
+Warning--to sort, need author or key in dilation
+Warning--to sort, need author or key in thinning
+Warning--to sort, need author or key in zscore
+Warning--to sort, need author or key in euclidean_online
+Warning--empty publisher in 1997combining
+Too many commas in name 1 of "Luqman, M. M., Brouard, T., & Ramel, J.-Y." for entry luqman_2009
+while executing---line 1090 of file abbrv.bst
+Too many commas in name 1 of "Luqman, M. M., Brouard, T., & Ramel, J.-Y." for entry luqman_2009
+while executing---line 1090 of file abbrv.bst
+Too many commas in name 1 of "Luqman, M. M., Brouard, T., & Ramel, J.-Y." for entry luqman_2009
+while executing---line 1090 of file abbrv.bst
+Warning--empty booktitle in descriptor4
+You've used 49 entries,
+            2118 wiz_defined-function locations,
+            818 strings with 13252 characters,
+and the built_in function-call counts, 17860 in all, are:
+= -- 1769
+> -- 743
+< -- 22
++ -- 299
+- -- 242
+* -- 1197
+:= -- 2710
+add.period$ -- 155
+call.type$ -- 49
+change.case$ -- 259
+chr.to.int$ -- 0
+cite$ -- 60
+duplicate$ -- 723
+empty$ -- 1506
+format.name$ -- 242
+if$ -- 3965
+int.to.chr$ -- 0
+int.to.str$ -- 49
+missing$ -- 39
+newline$ -- 245
+num.names$ -- 90
+pop$ -- 347
+preamble$ -- 1
+purify$ -- 212
+quote$ -- 0
+skip$ -- 574
+stack$ -- 0
+substring$ -- 1172
+swap$ -- 233
+text.length$ -- 22
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 192
+warning$ -- 11
+while$ -- 150
+width$ -- 51
+write$ -- 531
+(There were 6 error messages)

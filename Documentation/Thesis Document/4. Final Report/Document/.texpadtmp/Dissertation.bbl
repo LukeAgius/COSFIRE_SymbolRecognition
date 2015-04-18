@@ -1,0 +1,313 @@
+\begin{thebibliography}{10}
+
+\bibitem{euclidean_online}
+Euclidean and euclidean squared.
+\newblock Available from \\
+  \url{http://www.improvedoutcomes.com/docs/WebSiteDocs/Clustering/Clustering_Parameters/Euclidean_and_Euclidean_Squared_Distance_Metrics.htm}.
+\newblock \\ Accessed on: 01/03/2013.
+
+\bibitem{markovs}
+Hidden markov models.
+\newblock Available from \\
+  \url{http://digital.cs.usu.edu/~cyan/CS7960/hmm-tutorial.pdf}.
+\newblock \\ Accessed on: 27/02/2013.
+
+\bibitem{Delalandre_contest}
+International symbol recognition contest 2011.
+\newblock Available from \\
+  \url{http://mathieu.delalandre.free.fr/projects/sesyd/symbols/isrc2011.html}.
+\newblock \\ Accessed on: 15/11/2012.
+
+\bibitem{zscore}
+Lecture notes on data transformation.
+\newblock Available from \\
+  \url{http://www.informatics.indiana.edu/predrag/classes/2005springi400/lecture_notes_4_1.pdf}.
+\newblock \\ Accessed on: 01/05/2013.
+
+\bibitem{contextWeb}
+Matching with shape contexts.
+\newblock Available from \\
+  \url{http://www.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sc_digits.html}.
+\newblock \\ Accessed on: 21/03/2013.
+
+\bibitem{medianFiltering}
+Median filter.
+\newblock Available from \\
+  \url{http://homepages.inf.ed.ac.uk/rbf/HIPR2/median.htm}.
+\newblock \\ Accessed on: 01/05/2013.
+
+\bibitem{dilation}
+Morphological dilation.
+\newblock Available from \\
+  \url{http://homepages.inf.ed.ac.uk/rbf/HIPR2/dilate.htm}.
+\newblock \\ Accessed on: 01/05/2013.
+
+\bibitem{Delalandre_sketched}
+Sketched symbols.
+\newblock Available from \\
+  \url{http://mathieu.delalandre.free.fr/projects/sesyd/symbols/sketches.html}.
+\newblock \\ Accessed on: 15/11/2012.
+
+\bibitem{thinning}
+Thinning.
+\newblock Available from \\
+  \url{http://homepages.inf.ed.ac.uk/rbf/HIPR2/thin.htm}.
+\newblock \\ Accessed on: 01/05/2013.
+
+\bibitem{Alajlan}
+N.~Alajlan, I.~E. Rube, M.~S. Kamel, and G.~Freeman.
+\newblock Shape retrieval using triangle-area representation and dynamic space
+  warping.
+\newblock {\em Pattern Recognition}, 40(7):1911 -- 1920, 2007.
+
+\bibitem{descriptor5}
+N.~Alajlan, I.~E. Rube, M.~S. Kamel, and G.~Freeman.
+\newblock Shape retrieval using triangle-area representation and dynamic space
+  warping.
+\newblock {\em Pattern Recognition}, 40(7):1911 -- 1920, 2007.
+
+\bibitem{context}
+S.~Belongie and J.~Malik.
+\newblock Matching with shape contexts.
+\newblock In {\em Content-based Access of Image and Video Libraries, 2000.
+  Proceedings. IEEE Workshop on}, pages 20--26, 2000.
+
+\bibitem{ogierRobustSymbolRecognition}
+K.~Bertet, M.~Coustaty, and J.-m. Ogier.
+\newblock Robust symbol recognition using a structural approach mathieu
+  delalandre cvc (barcelona, spain).
+
+\bibitem{Cordella_2000}
+L.~Cordella and M.Vento.
+\newblock Symbol recognition in documents: a collection of techniques.
+\newblock {\em International Journal on Document Analysis and Recognition},
+  3(2):73--88, 2000.
+
+\bibitem{Daugman1985}
+J.~Daugman.
+\newblock Uncertainty relation for resolution in space, spatial frequency, and
+  orientation optimized by two-dimensional visual cortical filters.
+\newblock {\em Journal of the optical Society of America}, 2(7):1160--1169,
+  1985.
+
+\bibitem{Daugman1988}
+J.~G. Daugman.
+\newblock Complete discrete 2-d gabor transforms by neural networks for image
+  analysis and compression.
+\newblock {\em IEEE Transactions on Acoustics, Speech, and Signal processing},
+  36(7):1169--1179, 1988.
+
+\bibitem{XML}
+M.~Delalandre, P.~Héroux, S.~Adam, E.~Trupin, and J.-M. Ogier.
+\newblock A statistical and structural approach for symbol recognition, using
+  xml modelling.
+\newblock In T.~Caelli, A.~Amin, R.~Duin, D.~Ridder, and M.~Kamel, editors,
+  {\em Structural, Syntactic, and Statistical Pattern Recognition}, volume 2396
+  of {\em Lecture Notes in Computer Science}, pages 281--290. Springer Berlin
+  Heidelberg, 2002.
+
+\bibitem{delal2}
+M.~Delalandre, E.~Valveny, and J.~Llados.
+\newblock Performance evaluation of symbol recognition and spotting systems: An
+  overview.
+\newblock In {\em Document Analysis Systems, 2008. DAS '08. The Eighth IAPR
+  International Workshop on}, pages 497--505, 2008.
+
+\bibitem{duin2007science}
+R.~P. Duin and E.~Pekalska.
+\newblock The science of pattern recognition. achievements and perspectives.
+\newblock In {\em Challenges for Computational Intelligence}, pages 221--259.
+  Springer, 2007.
+
+\bibitem{Delalandre_2012}
+E.Valveny, M.Delalandre, R.Raveaux, and B.Lamiroy.
+\newblock Report on the symbol recognition and spotting contest.
+\newblock {\em Revised Selected Papers of Workshop on Graphics Recognition
+  (GREC), Lecture Notes in Computer Science (LNCS)}, 7423:1--11, 2012.
+
+\bibitem{CORF_2012}
+G.Azzopardi and N.Petkov.
+\newblock A corf computational model of a simple cell that relies on lgn input
+  outperforms the gabor function model.
+\newblock {\em Biological Cybernetics}, 106(3):177--189, 2012.
+
+\bibitem{Azzopardi_Petkov_2012}
+G.Azzopardi and N.Petkov.
+\newblock Trainable cosfire filters for key point detection and pattern
+  recognition.
+\newblock {\em IEEE transactions on pattern analysis and machine intelligence},
+  35(2):490--503, 2012.
+
+\bibitem{descriptor1}
+C.~Grigorescu and N.~Petkov.
+\newblock Distance sets for shape filters and shape recognition.
+\newblock {\em Trans. Img. Proc.}, 12(10):1274--1286, Oct. 2003.
+
+\bibitem{Groen}
+F.~C.~A. Groen, A.~C. Sanderson, and J.~F. Schlag.
+\newblock Symbol recognition in electrical diagrams using probabilistic graph
+  matching.
+\newblock {\em Pattern Recogn. Lett.}, 3(5):343--350, Sept. 1985.
+
+\bibitem{hamada}
+A.~Hamada.
+\newblock {\em Structural recognition of disturbed symbols using discrete
+  relaxation}.
+\newblock Rapport: Centre de Recherche en Informatique. Centre de Recherche en
+  Informatique, 1991.
+
+\bibitem{Heider}
+P.~Heider, A.~Pierre-Pierre, R.~Li, and C.~Grimm.
+\newblock Local shape descriptors, a survey and evaluation.
+\newblock In {\em Proceedings of the 4th Eurographics conference on 3D Object
+  Retrieval}, EG 3DOR'11, pages 49--56, Aire-la-Ville, Switzerland,
+  Switzerland, 2011. Eurographics Association.
+
+\bibitem{zernike}
+H.~Hse and A.~R. Newton.
+\newblock Sketched symbol recognition using zernike moments.
+\newblock In {\em International Conference on Pattern Recognition}, pages
+  367--370, 2004.
+
+\bibitem{mediangraph}
+X.~Jiang, A.~Münger, and H.~Bunke.
+\newblock Synthesis of representative graphical symbols by computing
+  generalized median graph.
+\newblock In A.~Chhabra and D.~Dori, editors, {\em Graphics Recognition Recent
+  Advances}, volume 1941 of {\em Lecture Notes in Computer Science}, pages
+  183--192. Springer Berlin Heidelberg, 2000.
+
+\bibitem{JonesPalmer1987}
+J.~P. Jones and L.~A. Palmer.
+\newblock An evaluation of the two-dimensional gabor filter model of simple
+  receptive-fields in cat striate cortex.
+\newblock {\em Journal of Neurophysiology}, 58(6):1233--1258, 1987.
+
+\bibitem{888707}
+T.~Kanungo, R.~Haralick, H.~Baird, W.~Stuezle, and D.~Madigan.
+\newblock A statistical, nonparametric methodology for document degradation
+  model validation.
+\newblock {\em Pattern Analysis and Machine Intelligence, IEEE Transactions
+  on}, 22(11):1209--1223, 2000.
+
+\bibitem{combi}
+P.~KUNER and B.~UEBERREITER.
+\newblock Pattern recognition by graph matching—combinatorial versus
+  continuous optimization.
+\newblock {\em International Journal of Pattern Recognition and Artificial
+  Intelligence}, 02(03):527--542, 1988.
+
+\bibitem{graphmatch}
+S.-W. Lee.
+\newblock Recognizing hand-drawn electrical circuit symbols with attributed
+  graph matching.
+\newblock In H.~Baird, H.~Bunke, and K.~Yamamoto, editors, {\em Structured
+  Document Image Analysis}, pages 340--358. Springer Berlin Heidelberg, 1992.
+
+\bibitem{descriptor3}
+H.~Ling and D.~W. Jacobs.
+\newblock Shape classification using the inner-distance.
+\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, 29(2):286--299, Feb.
+  2007.
+
+\bibitem{1997combining}
+J.~Llad{\'o}s.
+\newblock {\em Combining Graph Matching and Hough Transform for Hand-drawn
+  Graphical Document Analysis: Application to Architectural Drawings}.
+\newblock 1997.
+
+\bibitem{Llados}
+J.~Llad\'{o}s, E.~Valveny, G.~S\'{a}nchez, and E.~Mart\'{\i}.
+\newblock Symbol recognition: Current advances and perspectives.
+\newblock In {\em Selected Papers from the Fourth International Workshop on
+  Graphics Recognition Algorithms and Applications}, GREC '01, pages 104--127,
+  London, UK, UK, 2002. Springer-Verlag.
+
+\bibitem{luqman_2009}
+B.~T. . R. J.-Y. Luqman, M.~M.
+\newblock Graphic symbol recognition using graph based signature and bayesian
+  network classifier.
+\newblock {\em 2009 10th International Conference on Document Analysis and
+  Recognition}, page 1325–1329, 2009.
+
+\bibitem{Maji_comparison}
+S.~Maji.
+\newblock A comparison of feature descriptors.
+
+\bibitem{engdrawings}
+B.~Messmer and H.~Bunke.
+\newblock Automatic learning and recognition of graphical symbols in
+  engineering drawings.
+\newblock In R.~Kasturi and K.~Tombre, editors, {\em Graphics Recognition
+  Methods and Applications}, volume 1072 of {\em Lecture Notes in Computer
+  Science}, pages 123--134. Springer Berlin Heidelberg, 1996.
+
+\bibitem{descriptor4}
+F.~Mokhtarian, S.~Abbasi, and J.~Kittler.
+\newblock Efficient and robust retrieval by shape content through curvature
+  scale space.
+\newblock pages 35--42, 1996.
+
+\bibitem{Nayef}
+N.~Nayef and T.~M. Breuel.
+\newblock On the use of geometric matching for both: isolated symbol
+  recognition and symbol spotting.
+\newblock In {\em Proceedings of the 9th international conference on Graphics
+  Recognition: new trends and challenges}, GREC'11, pages 36--48, Berlin,
+  Heidelberg, 2013. Springer-Verlag.
+
+\bibitem{Ouyang_2009}
+T.~Y. Ouyang and R.~Davis.
+\newblock A visual approach to sketched symbol recognition.
+\newblock In {\em Proceedings of the 21st international jont conference on
+  Artifical intelligence}, IJCAI'09, pages 1463--1468, San Francisco, CA, USA,
+  2009. Morgan Kaufmann Publishers Inc.
+
+\bibitem{knn_online}
+S.~Thirumuruganathan.
+\newblock A detailed introduction to k-nearest neighbor (knn) algorithm
+  {@ONLINE}, May 2010.
+
+\bibitem{musings}
+K.~Tombre, S.~Tabbone, and P.~Dosch.
+\newblock Musings on symbol recognition.
+\newblock In W.~Liu and J.~Lladós, editors, {\em Graphics Recognition. Ten
+  Years Review and Future Perspectives}, volume 3926 of {\em Lecture Notes in
+  Computer Science}, pages 23--34. Springer Berlin Heidelberg, 2006.
+
+\bibitem{wang}
+J.~Wang, X.~Bai, X.~You, W.~Liu, and L.~J. Latecki.
+\newblock Shape matching and classification using height functions.
+\newblock {\em Pattern Recogn. Lett.}, 33(2):134--143, Jan. 2012.
+
+\bibitem{Wu_2007}
+X.~Wu, V.~Kumar, J.~Ross~Quinlan, J.~Ghosh, Q.~Yang, H.~Motoda, G.~J.
+  McLachlan, A.~Ng, B.~Liu, P.~S. Yu, Z.-H. Zhou, M.~Steinbach, D.~J. Hand, and
+  D.~Steinberg.
+\newblock Top 10 algorithms in data mining.
+\newblock {\em Knowl. Inf. Syst.}, 14(1):1--37, Dec. 2007.
+
+\bibitem{descriptor2}
+J.~Xie, P.-A. Heng, and M.~Shah.
+\newblock Shape matching and modeling using skeletal context.
+\newblock {\em Pattern Recogn.}, 41(5):1756--1767, May 2008.
+
+\bibitem{ANNS}
+F.~Yang and F.~Yang.
+\newblock Character recognition using parallel bp neural network.
+\newblock In {\em Audio, Language and Image Processing, 2008. ICALIP 2008.
+  International Conference on}, pages 1595--1599, 2008.
+
+\bibitem{yoon2001new}
+S.~Yoon, G.~Kim, Y.~Choi, and Y.~Lee.
+\newblock New paradigm for segmentation and recognition.
+\newblock In {\em Workshop on Graphics Recognition (GREC)}, pages 216--225,
+  2001.
+
+\bibitem{decisiontrees}
+S.~Zesheng, Y.~Jing, J.~Chunhong, and W.~Yonggui.
+\newblock Symbol recognition in electronic diagrams using decision tree.
+\newblock In {\em Industrial Technology, 1994., Proceedings of the IEEE
+  International Conference on}, pages 719--723, 1994.
+
+\end{thebibliography}

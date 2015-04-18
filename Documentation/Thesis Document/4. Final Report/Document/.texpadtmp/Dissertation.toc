@@ -1,0 +1,119 @@
+\contentsline {chapter}{Table Of Contents}{iii}{Doc-Start}
+\contentsline {chapter}{List of Figures}{vi}{chapter*.1}
+\contentsline {chapter}{List of Tables}{viii}{chapter*.2}
+\contentsline {chapter}{Chapter \numberline {1.}Summary}{1}{chapter.1}
+\contentsline {chapter}{Chapter \numberline {2.}Introduction}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Background}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Research Questions}{5}{section.2.2}
+\contentsline {section}{\numberline {2.3}Deliverables}{5}{section.2.3}
+\contentsline {section}{\numberline {2.4}Project Plan}{6}{section.2.4}
+\contentsline {section}{\numberline {2.5}Overview of The Report}{7}{section.2.5}
+\contentsline {chapter}{Chapter \numberline {3.}Literature Review}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}Overview}{9}{section.3.1}
+\contentsline {section}{\numberline {3.2}What Is a Symbol?}{10}{section.3.2}
+\contentsline {section}{\numberline {3.3}Symbol Recognition}{12}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Statistical Symbol Recognition}{13}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Structural Symbol Recognition}{15}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Performance Evaluation}{16}{subsection.3.3.3}
+\contentsline {subsubsection}{Datasets}{17}{section*.7}
+\contentsline {subsubsection}{Performance Metrics}{18}{section*.9}
+\contentsline {subsubsection}{Results}{18}{section*.10}
+\contentsline {section}{\numberline {3.4}State of The Art}{19}{section.3.4}
+\contentsline {section}{\numberline {3.5}COSFIRE Filters}{27}{section.3.5}
+\contentsline {subsubsection}{Gabor Filters}{27}{section*.20}
+\contentsline {chapter}{Chapter \numberline {4.}Methods}{29}{chapter.4}
+\contentsline {section}{\numberline {4.1}Overview}{29}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}The COSFIRE Approach}{29}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Evaluation}{29}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}COSFIRE Method}{30}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Overview}{30}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Using Gabor filters to Detect Orientations}{31}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Configuration}{33}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Application of a COSFIRE Filter}{35}{subsection.4.2.4}
+\contentsline {subsubsection}{Applying Gabor filters}{35}{section*.28}
+\contentsline {subsubsection}{Blurring and Shifting of Gabor responses}{35}{section*.29}
+\contentsline {subsubsection}{Response of a COSFIRE filter}{36}{section*.30}
+\contentsline {section}{\numberline {4.3}Evaluation}{36}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Pre-Processing}{36}{subsection.4.3.1}
+\contentsline {subsubsection}{Re-sizing}{37}{section*.31}
+\contentsline {subsubsection}{De-noising by median filtering}{37}{section*.32}
+\contentsline {subsubsection}{Dilation}{38}{section*.34}
+\contentsline {subsubsection}{Thinning}{38}{section*.36}
+\contentsline {subsection}{\numberline {4.3.2}Forming a Shape Descriptor}{39}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Classification}{43}{subsection.4.3.3}
+\contentsline {subsubsection}{Feature Vectors}{43}{section*.42}
+\contentsline {subsubsection}{Normalisation}{43}{section*.43}
+\contentsline {subsubsection}{K-nearest neighbour algorithm}{44}{section*.44}
+\contentsline {subsection}{\numberline {4.3.4}Evaluation Summary}{47}{subsection.4.3.4}
+\contentsline {chapter}{Chapter \numberline {5.}Experimental Results}{48}{chapter.5}
+\contentsline {section}{\numberline {5.1}Overview}{48}{section.5.1}
+\contentsline {section}{\numberline {5.2}Category 1 Datasets}{48}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Sketches25f}{48}{subsection.5.2.1}
+\contentsline {subsubsection}{Results}{49}{section*.48}
+\contentsline {subsection}{\numberline {5.2.2}Sketches25}{50}{subsection.5.2.2}
+\contentsline {subsubsection}{Results}{50}{section*.51}
+\contentsline {subsection}{\numberline {5.2.3}Sketches50f}{51}{subsection.5.2.3}
+\contentsline {subsubsection}{Results}{51}{section*.54}
+\contentsline {subsection}{\numberline {5.2.4}Sketches50}{52}{subsection.5.2.4}
+\contentsline {subsubsection}{Results}{52}{section*.57}
+\contentsline {subsection}{\numberline {5.2.5}Sketches100f}{53}{subsection.5.2.5}
+\contentsline {subsubsection}{Results}{53}{section*.60}
+\contentsline {subsection}{\numberline {5.2.6}Sketches100}{54}{subsection.5.2.6}
+\contentsline {subsubsection}{Results}{54}{section*.63}
+\contentsline {subsection}{\numberline {5.2.7}Sketches150f}{55}{subsection.5.2.7}
+\contentsline {subsubsection}{Results}{55}{section*.66}
+\contentsline {subsection}{\numberline {5.2.8}Sketches150}{56}{subsection.5.2.8}
+\contentsline {subsubsection}{Results}{56}{section*.69}
+\contentsline {section}{\numberline {5.3}Category 2 Datasets}{57}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Rotation}{57}{subsection.5.3.1}
+\contentsline {subsubsection}{Results}{57}{section*.72}
+\contentsline {subsection}{\numberline {5.3.2}Scaling}{58}{subsection.5.3.2}
+\contentsline {subsubsection}{Results}{58}{section*.75}
+\contentsline {subsection}{\numberline {5.3.3}RotationScaling}{59}{subsection.5.3.3}
+\contentsline {subsubsection}{Results}{59}{section*.78}
+\contentsline {section}{\numberline {5.4}Category 3 Datasets}{60}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Noise A}{60}{subsection.5.4.1}
+\contentsline {subsubsection}{Results}{60}{section*.81}
+\contentsline {subsection}{\numberline {5.4.2}Noise B}{61}{subsection.5.4.2}
+\contentsline {subsubsection}{Results}{61}{section*.84}
+\contentsline {subsection}{\numberline {5.4.3}Noise E}{62}{subsection.5.4.3}
+\contentsline {subsubsection}{Results}{62}{section*.87}
+\contentsline {chapter}{Chapter \numberline {6.}Discussion}{63}{chapter.6}
+\contentsline {section}{\numberline {6.1}Overview}{63}{section.6.1}
+\contentsline {section}{\numberline {6.2}Robustness to Scalability}{64}{section.6.2}
+\contentsline {section}{\numberline {6.3}Robustness to Geometrical Transformations}{65}{section.6.3}
+\contentsline {section}{\numberline {6.4}Robustness to Noise}{66}{section.6.4}
+\contentsline {section}{\numberline {6.5}Discussion Summary}{66}{section.6.5}
+\contentsline {chapter}{Chapter \numberline {7.}Conclusion}{68}{chapter.7}
+\contentsline {section}{\numberline {7.1}Outlook}{68}{section.7.1}
+\contentsline {chapter}{Chapter \numberline {A.}Appendix}{71}{appendix.A}
+\contentsline {section}{\numberline {A.1}Program Implementation}{71}{section.A.1}
+\contentsline {subsection}{\numberline {A.1.1}ExperimentParameters.m}{71}{subsection.A.1.1}
+\contentsline {subsubsection}{Description}{71}{section*.94}
+\contentsline {subsubsection}{Code}{73}{section*.95}
+\contentsline {subsection}{\numberline {A.1.2}Utilities.m}{74}{subsection.A.1.2}
+\contentsline {subsubsection}{Description}{74}{section*.96}
+\contentsline {subsubsection}{Code}{76}{section*.97}
+\contentsline {subsection}{\numberline {A.1.3}ConfigureOperators.m}{77}{subsection.A.1.3}
+\contentsline {subsubsection}{Description}{77}{section*.98}
+\contentsline {subsubsection}{Code}{77}{section*.99}
+\contentsline {subsection}{\numberline {A.1.4}TrainOperators.m}{78}{subsection.A.1.4}
+\contentsline {subsubsection}{Description}{78}{section*.100}
+\contentsline {subsubsection}{Code}{78}{section*.101}
+\contentsline {subsection}{\numberline {A.1.5}TestOperators.m}{79}{subsection.A.1.5}
+\contentsline {subsubsection}{Description}{79}{section*.102}
+\contentsline {subsubsection}{Code}{79}{section*.103}
+\contentsline {subsection}{\numberline {A.1.6}Experiment.m}{80}{subsection.A.1.6}
+\contentsline {subsubsection}{Description}{80}{section*.104}
+\contentsline {subsubsection}{Code}{80}{section*.105}
+\contentsline {section}{\numberline {A.2}CD Contents}{81}{section.A.2}
+\contentsline {subsection}{\numberline {A.2.1}Dissertation document}{81}{subsection.A.2.1}
+\contentsline {subsection}{\numberline {A.2.2}Video}{81}{subsection.A.2.2}
+\contentsline {subsection}{\numberline {A.2.3}Implementation}{81}{subsection.A.2.3}
+\contentsline {subsection}{\numberline {A.2.4}Datasets}{82}{subsection.A.2.4}
+\contentsline {section}{\numberline {A.3}How to run an experiment}{84}{section.A.3}
+\contentsline {subsection}{\numberline {A.3.1}File And Directory Setup}{84}{subsection.A.3.1}
+\contentsline {subsection}{\numberline {A.3.2}Parameter Setup}{85}{subsection.A.3.2}
+\contentsline {subsection}{\numberline {A.3.3}Execution}{87}{subsection.A.3.3}
+\contentsline {subsection}{\numberline {A.3.4}Output}{87}{subsection.A.3.4}
+\contentsline {chapter}{Chapter \numberline {B.}Evaluation}{95}{appendix.B}

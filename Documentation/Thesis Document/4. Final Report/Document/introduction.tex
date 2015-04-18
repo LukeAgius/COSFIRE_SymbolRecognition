@@ -1,0 +1,64 @@
+\chapter{Introduction}
+\label{chap:intro}
+
+% ===================================== BACKGROUND =====================================================
+\section {Background}
+\label{sec:background}
+Handheld devices have become ubiquitous due to their flexibility and enhanced productivity. Such devices allow users to write freely on them or to manually sketch symbols. Various applications to such devices include the automatic recognition of handwritten letters, digits, signatures, musical notes, electrical and architectural symbols, among others. For instance a musical composer might write down a piece of music on paper or an electrical engineer might also quickly jot down parts of a schematic. Manually converting this handwritten/sketched information into a digital representation may be tedious. \\ 
+
+Such devices enable the composer or the engineer to quickly and efficiently convert their ideas into a correct digital representation. After doing so both the composer and the engineer might be able to quickly incorporate their ideas into a larger, already digitally converted, body of work. For instance, electrical or architectural engineers can quickly convert an image of hand drawn/sketched schematics into a set of symbols and then import them into drafting software such as Auto Cad.\\
+
+Before the recognition process takes place, the document or image in which the manual work is found needs to be segmented. Image segmentation is applied where each symbol is spotted and isolated. This simplifies the recognition process by making the symbol that we need to recognise and classify, more meaningful and easier to analyse.\\
+
+The automatic recognition of isolated symbols, from larger segmented hand-drawn sketches, is an important step in such applications due to the fact that each symbol in physical works need to be properly recognised and converted into a digital representation. This results in a more convenient and efficient storage, retrieval and manipulation as compared to conventional means which consists of starting the sketch from scratch on a computer. \\
+
+A method which has been found to be highly effective for the recognition of isolated patterns is the trainable COSFIRE (Combination Of Shifted FIlter REsponses) approach \cite{Azzopardi_Petkov_2012}. COSFIRE filters, which are effective for keypoint detection and pattern recognition, is trainable as it can be configured by a given contour-based pattern. The configuration process automatically analyses the dominant orientations around the specified prototype. These dominant orientations are detected by the use of Gabor filters. The response of a COSFIRE filter is computed as the weighted geometric mean of the involved Gabor filter responses. This means that a response is only achieved when all the concerned contour parts are present.The COSFIRE approach can also achieve invariance to rotation, scale, reflection and contrast inversion. \\
+
+In their paper \cite{Azzopardi_Petkov_2012}, the authors demonstrated that a shape descriptor can be formed with the collective responses of multiple COSFIRE filters. They have also demonstrated that COSFIRE filters can be effectively applied to the detection of vascular bifurcations, recognition of handwritten digits and detection and recognition of traffic signs in complex scenes. In this work, we investigate the effectiveness of the mentioned COSFIRE filters for the recognition of electrical and architectural symbols.
+    
+% ===================================== RESEARCH QUESTIONS =====================================================    
+\section {Research Questions} 
+The following are the questions that we investigate in this work:-
+    \begin{enumerate}
+        \item How effective are COSFIRE filters for the recognition of electrical and architectural symbols?        \item How robust are COSFIRE filters to noisy symbols?        \item How does the results achieved by COSFIRE filters compare to published result of state-of-the-art methods?
+    \end{enumerate}
+The effectiveness of COSFIRE filters is evaluated by numerous experiments which are performed on various publicly available data sets \cite{Delalandre_contest} \cite{Delalandre_sketched}. These data sets hold 150 different classes of symbols. Every data set contains a model symbol for each class and many test images that we use for evaluation. Test symbols, are then used to test the configured COSFIRE filters. The test symbols contain both noisy and noise less symbols. Furthermore, some test symbols are scaled or/and rotated.
+
+% ===================================== DELIVERABLES =====================================================    
+\section {Deliverables}
+In this thesis, the deliverables include a description of the proposed method and a comparison against other state of the art techniques. The three posed research questions will be addressed by various experiments implemented on Matlab followed by in depth analysis of the results. Performance measurements will be computed in the form of true positives and false positive rates which can be used to derive accuracy, precision and recall rates. Documentation of the MATLAB implementation is provided on how it is built, Section \ref{sec:built}. This also includes a step by step guide on how to re-run the experiments, Section \ref{sec:howto}. The needed files are included in the CD, Section \ref{sec:CD}. A discussion is included concerning some aspects of the proposed approach which highlights the differences that distinguish it from other approaches. Finally, we draw conclusions and provide an outlook of future work.
+
+% ===================================== PROJECT PLAN =====================================================    
+\section {Project Plan}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[angle=90,totalheight=0.89\textheight, keepaspectratio]{figures/introduction/capture.png}
+    \caption[Thesis Project Plan]{Project Plan}
+    \label{fig:projectplan}
+  \end{figure}
+  
+Fig. \ref{fig:projectplan} shows the project plan for this thesis. The actual project plan deviated a little from the original one in terms of duration for certain tasks. Tasks other than the experiments required less time such as searching for adequate datasets, the building of the classifier and writing the preliminary report. The deviation in terms of task duration took place due to the fact that the some experiments required more time than actually planned because of the size of the data set to be processed and the number of computations done for each data set. \\
+
+Therefore, due to time restrictions and having datasets with a larger number of classes available, which require more time to process,  not all datasets where classified  within the allotted time frame. This is explained further in Chapter \ref{chap:disc} Discussion.
+
+\section {Overview of The Report}
+Below is a brief outline for each chapter of this dissertation. \\
+  
+{\bf Chapter 2 - Literature Review} \\
+The literature review focuses on state-of-the-art symbol recognition methods and presents an overview of several published algorithms used and results obtained. The research covers the progress in this area of research and discusses potential future work.\\
+
+{\bf Chapter 3 - Methodology} \\
+This chapter is divided into two main sections. The first section gives a detailed description of COSFIRE filters. It explains the COSFIRE filters' configuration and application stages in detail.\\
+
+The second section is the Evaluation section, which gives a detailed description of how COSFIRE filters are used in the classification of electrical and architectural symbols. This section is further divided into five sections were, the data sets, pre-processing, configuration of COSFIRE filters, forming a shape descriptor and the classification technique used are explained in detail.\\
+
+{\bf Chapter 4 - Experimental Results} \\
+This section provides the results obtained for various data sets of different complexity. \\
+
+
+{\bf Chapter 5 - Discussion} \\
+This section provides a discussion about the proposed method to the recognition of isolated symbols in hand drawn images. We also compare our results with those obtained by other state of the art methods. \\
+
+{\bf Chapter 6 - Summary Conclusion} \\This chapter provides a summary of the entire dissertation. Subsequently conclusions are drawn.
+  
